@@ -1,7 +1,5 @@
 # FYP-MaliciousURLSDetection
 
-Here's an image of my project:
-
 ![Project Image](https://upload.wikimedia.org/wikipedia/commons/2/26/Magnifying_glass_icon_mgx1.svg)
 
 ## Project Overview
