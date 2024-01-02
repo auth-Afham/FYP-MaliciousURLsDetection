@@ -40,17 +40,17 @@ This repository contains the dataset and code for the Malicious URLs Detection p
 
 ### Neural Network
 
-- **tk_tf_nn.ipynb**: Jupyter Notebook for the TensorFlow Neural Network.
+- **tk_tf_nn.ipynb**: Jupyter Notebook for tokenizer with the TensorFlow Neural Network.
 
 ### Traditional ML
 
-- **cv_lr.ipynb**: Jupyter Notebook for cross-validation with Logistic Regression.
+- **cv_lr.ipynb**: Jupyter Notebook for count vectorizer with Logistic Regression.
 
-- **cv_rf.ipynb**: Jupyter Notebook for cross-validation with Random Forest.
+- **cv_rf.ipynb**: Jupyter Notebook for count vectorizer with Random Forest.
 
-- **cv_svm.ipynb**: Jupyter Notebook for cross-validation with Support Vector Machine.
+- **cv_svm.ipynb**: Jupyter Notebook for count vectorizer with Support Vector Machine.
 
-- **cv_xgb.ipynb**: Jupyter Notebook for cross-validation with XGBoost.
+- **cv_xgb.ipynb**: Jupyter Notebook for count vectorizer with XGBoost.
 
 - **tf-idf_lr.ipynb**: Jupyter Notebook for TF-IDF with Logistic Regression.
 
@@ -62,13 +62,13 @@ This repository contains the dataset and code for the Malicious URLs Detection p
 
 ### Label Encoders
 
-- **label_encoder_cv_xgb.pkl**: Pickle file for Label Encoder used in cross-validation with XGBoost.
+- **label_encoder_cv_xgb.pkl**: Pickle file for Label Encoder used in count vectorizer with XGBoost.
 
 ### Models
 
-- **cv_xgb.pkl**: Pickle file for the XGBoost model used in cross-validation.
+- **cv_xgb.pkl**: Pickle file for the XGBoost model used in count vectorizer.
 
 ### Vectorizers
 
-- **vectorizer_cv_xgb.pkl**: Pickle file for the TF-IDF Vectorizer used in cross-validation with XGBoost.
+- **vectorizer_cv_xgb.pkl**: Pickle file for the count vectorizer used with XGBoost.
 
